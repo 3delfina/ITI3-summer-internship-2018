@@ -1,10 +1,10 @@
-# ITI3-summer-internship-2018
+# Indepen-dance ITI3 Summer Internship 2018
 ITI3 projects are summer internships offered to students of the School of Computing Science at the University of Glasgow. Students work for local charities (in pairs), helping them with their IT problems. Our goal was to create a system for a dance company to record client information and simplify class management. 
 
-## Where to see our scripts?
-All scripts are located in Class Information/[macros] folder
+[ITI3](http://www.dcs.gla.ac.uk/~hcp/iti3/)
+[Glasgow University Settlement)](http://gusettlement.org/)
  
-## Goals
+## Goals of the project
 * become more user friendly by not printing attendance registers
 * streamline process of taking attendance in dance classes
 * simplify data management
@@ -27,6 +27,10 @@ A user is working with the system through master.xlsm
 
 ### End of the term
 1. Register files are archived in Excel format.
+
+## Where to see our scripts?
+All Excel based scripts are located in Class Information/[macros] folder.
+Scripts for conversion between Excel and Google Sheets are located in Class Information/Conversion folder.
 
 ## Authors
 * Marija Mumm, 2nd year Computing Science Student, University of Glasgow
